@@ -33,3 +33,7 @@ source ./install/setup.bash
 ros2 launch taurasim simulation_robot.launch.py
 ```
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16974847.svg)](https://doi.org/10.5281/zenodo.16974846)
+
+
